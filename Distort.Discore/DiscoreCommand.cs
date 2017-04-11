@@ -7,11 +7,12 @@ namespace Distort.Discore
 {
 	public abstract class DiscoreCommand : Command, DiscoreCommandExecutable
 	{
-		
-		public void Execute(List<string> args, MessageEventArgs e)
-		{
+
+		public override void Execute(List<string> args) {
 			return;
 		}
+
+		public abstract void Execute(List<string> args, MessageEventArgs e);
 
 	}
 }
