@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C345DC89-DD8E-430A-91D8-DBF2CA23712A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distort.Discore", "Distort.Discore\Distort.Discore.csproj", "{D1319CD5-5D1D-4742-9CFD-25ABD3472474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1319CD5-5D1D-4742-9CFD-25ABD3472474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1319CD5-5D1D-4742-9CFD-25ABD3472474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1319CD5-5D1D-4742-9CFD-25ABD3472474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1319CD5-5D1D-4742-9CFD-25ABD3472474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D1319CD5-5D1D-4742-9CFD-25ABD3472474} = {C345DC89-DD8E-430A-91D8-DBF2CA23712A}
+	EndGlobalSection
+EndGlobal
