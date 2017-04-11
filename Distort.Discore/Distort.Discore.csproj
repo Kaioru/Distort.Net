@@ -7,4 +7,7 @@
   <ItemGroup>
     <PackageReference Include="Discore" Version="2.2.0" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Retort.Net\src\Retort.Core.csproj" />
+  </ItemGroup>
 </Project>
