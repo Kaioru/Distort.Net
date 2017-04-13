@@ -1,2 +1,2 @@
 # Distort.Net
-Official dotnet port of [discord](https://github.com/Kaioru/distort), the discord command framework.
+Official dotnet port of [distort](https://github.com/Kaioru/distort), the discord command framework.
